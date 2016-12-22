@@ -1,5 +1,5 @@
 <?php
-/* Uploded By Jitendra Kumar on 20-12-2016 */
+/* Uploded By Jitendra Kumar on 21-12-2016 */
 require_once dirname( __FILE__ ) . '/payu.php';
 
 function payment_success() {
